@@ -1,0 +1,4 @@
+Symlinking /home/louis/ros/devel/etc/catkin/profile.d/25.turtlebot.sh
+Symlinking /home/louis/ros/devel/lib/pkgconfig/turtlebot_bringup.pc
+Symlinking /home/louis/ros/devel/share/turtlebot_bringup/cmake/turtlebot_bringupConfig-version.cmake
+Symlinking /home/louis/ros/devel/share/turtlebot_bringup/cmake/turtlebot_bringupConfig.cmake

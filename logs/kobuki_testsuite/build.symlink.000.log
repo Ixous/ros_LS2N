@@ -1,0 +1,4 @@
+Symlinking /home/louis/ros/devel/lib/python2.7/dist-packages/kobuki_testsuite/__init__.py
+Symlinking /home/louis/ros/devel/lib/pkgconfig/kobuki_testsuite.pc
+Symlinking /home/louis/ros/devel/share/kobuki_testsuite/cmake/kobuki_testsuiteConfig.cmake
+Symlinking /home/louis/ros/devel/share/kobuki_testsuite/cmake/kobuki_testsuiteConfig-version.cmake

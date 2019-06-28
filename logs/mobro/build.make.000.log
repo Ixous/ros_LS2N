@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target mobro_gencfg[0m
+[100%] [34m[1mGenerating dynamic reconfigure files from control/Gains.cfg: /home/louis/ros/devel/.private/mobro/include/mobro/GainsConfig.h /home/louis/ros/devel/.private/mobro/lib/python2.7/dist-packages/mobro/cfg/GainsConfig.py[0m
+Generating reconfiguration files for Gains in mobro
+Wrote header file in /home/louis/ros/devel/.private/mobro/include/mobro/GainsConfig.h
+[100%] Built target mobro_gencfg

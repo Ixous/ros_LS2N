@@ -1,0 +1,5 @@
+Linked: (/home/louis/ros/devel/.private/kobuki_auto_docking/lib/libkobuki_auto_docking_nodelet.so, /home/louis/ros/devel/lib/libkobuki_auto_docking_nodelet.so)
+Linked: (/home/louis/ros/devel/.private/kobuki_auto_docking/lib/libkobuki_auto_docking_ros.so, /home/louis/ros/devel/lib/libkobuki_auto_docking_ros.so)
+Linked: (/home/louis/ros/devel/.private/kobuki_auto_docking/lib/pkgconfig/kobuki_auto_docking.pc, /home/louis/ros/devel/lib/pkgconfig/kobuki_auto_docking.pc)
+Linked: (/home/louis/ros/devel/.private/kobuki_auto_docking/share/kobuki_auto_docking/cmake/kobuki_auto_dockingConfig-version.cmake, /home/louis/ros/devel/share/kobuki_auto_docking/cmake/kobuki_auto_dockingConfig-version.cmake)
+Linked: (/home/louis/ros/devel/.private/kobuki_auto_docking/share/kobuki_auto_docking/cmake/kobuki_auto_dockingConfig.cmake, /home/louis/ros/devel/share/kobuki_auto_docking/cmake/kobuki_auto_dockingConfig.cmake)

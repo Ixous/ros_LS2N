@@ -1,0 +1,10 @@
+Symlinking /home/louis/ros/devel/include/mobro/GainsConfig.h
+Symlinking /home/louis/ros/devel/lib/python2.7/dist-packages/mobro/__init__.py
+Symlinking /home/louis/ros/devel/lib/python2.7/dist-packages/mobro/cfg/GainsConfig.py
+Symlinking /home/louis/ros/devel/lib/python2.7/dist-packages/mobro/cfg/__init__.py
+Symlinking /home/louis/ros/devel/lib/pkgconfig/mobro.pc
+Symlinking /home/louis/ros/devel/share/mobro/docs/GainsConfig.wikidoc
+Symlinking /home/louis/ros/devel/share/mobro/docs/GainsConfig-usage.dox
+Symlinking /home/louis/ros/devel/share/mobro/docs/GainsConfig.dox
+Symlinking /home/louis/ros/devel/share/mobro/cmake/mobroConfig-version.cmake
+Symlinking /home/louis/ros/devel/share/mobro/cmake/mobroConfig.cmake

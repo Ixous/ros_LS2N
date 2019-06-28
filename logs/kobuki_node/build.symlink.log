@@ -1,0 +1,5 @@
+Linked: (/home/louis/ros/devel/.private/kobuki_node/lib/libkobuki_nodelet.so, /home/louis/ros/devel/lib/libkobuki_nodelet.so)
+Linked: (/home/louis/ros/devel/.private/kobuki_node/lib/libkobuki_ros.so, /home/louis/ros/devel/lib/libkobuki_ros.so)
+Linked: (/home/louis/ros/devel/.private/kobuki_node/lib/pkgconfig/kobuki_node.pc, /home/louis/ros/devel/lib/pkgconfig/kobuki_node.pc)
+Linked: (/home/louis/ros/devel/.private/kobuki_node/share/kobuki_node/cmake/kobuki_nodeConfig-version.cmake, /home/louis/ros/devel/share/kobuki_node/cmake/kobuki_nodeConfig-version.cmake)
+Linked: (/home/louis/ros/devel/.private/kobuki_node/share/kobuki_node/cmake/kobuki_nodeConfig.cmake, /home/louis/ros/devel/share/kobuki_node/cmake/kobuki_nodeConfig.cmake)
