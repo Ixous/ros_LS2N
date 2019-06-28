@@ -1,5 +1,0 @@
-Symlinking /home/louis/ros/devel/lib/libkobuki_nodelet.so
-Symlinking /home/louis/ros/devel/lib/libkobuki_ros.so
-Symlinking /home/louis/ros/devel/lib/pkgconfig/kobuki_node.pc
-Symlinking /home/louis/ros/devel/share/kobuki_node/cmake/kobuki_nodeConfig-version.cmake
-Symlinking /home/louis/ros/devel/share/kobuki_node/cmake/kobuki_nodeConfig.cmake
